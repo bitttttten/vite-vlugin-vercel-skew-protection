@@ -1,12 +1,19 @@
 {
-  "name": "vite-vlugin-vercel-skew-protection",
+  "name": "vite-plugin-vercel-skew-protection",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitttttten/vite-plugin-vercel-skew-protection.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "invariant": "^2.2.4"
+  }
 }
